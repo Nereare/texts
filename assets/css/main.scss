@@ -17,3 +17,6 @@ $meta-font-family: $title;
 $accent-color: #00296b;
 
 @import "so-simple";
+
+.site-title { font-face: $title; }
+.site-description { display: none; }
