@@ -8,12 +8,12 @@ tags: fairytale fantasy
 
 ```mermaid
 flowchart TD
+  A("**Mudança ao Masculino**<br>") --> B("**Identificação com Masculino**")
   subgraph C ["**Desafios**"]
     direction LR
     C1("Luta contra subalternos") --> C2("Perda da casa")
     C2 --> C3("?")
   end
-  A("**Mudança ao Masculino**<br>") --> B("**Identificação com Masculino**")
   B --> C
   C --> D("**Sucesso Ilusório**")
   D --> E("**Crise**")
