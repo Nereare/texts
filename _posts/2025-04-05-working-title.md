@@ -1,7 +1,7 @@
 ---
 title: Título Provisório
 layout: post
-categories: fairytale fantasy
+tags: fairytale fantasy
 ---
 
-Era uma vez...
+Era uma vez um gato muitíssimo serelepe, nascido sob uma família antiga e bem-estabelecida
