@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+$body: "Crimsom Text", serif;
+$title: "Quicksand", sans-serif;
+
+$base-font-family: $body;
+$headline-font-family: $title;
+$title-font-family: $title;
+$description-font-family: $body;
+$meta-font-family: $title;
+
+$accent-color: #00296b;
+
+@import "so-simple";
