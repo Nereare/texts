@@ -1,0 +1,21 @@
+# Textos Aleatórios
+
+Ignore este repositório... Ele com certeza não é pros seus olhos...
+
+## Contribuições
+
+Para mais informações sobre como contribuir com este projeto, veja [o arquivo de contribuição](CONTRIBUTING.md).
+
+## Licença
+
+![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
+[Textos Aleatórios](https://nereare.github.io/texts/) por [Igor Padoim](https://nereare.com/) é licenciado sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br).
+
+### OGL
+
+Este projeto usará, inexoravelmente, partes do [_System Reference Document_ 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf), o qual é regido pela _Open Game License 1.0a_, [cópia da qual](OGL.md) é incluída neste repositório.
+
+### Atribuições
+
+- Banco de dados da _SRD_ de _D&D 5e_ adaptado de [5e-database](https://github.com/5e-bits/5e-database).
