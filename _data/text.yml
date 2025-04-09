@@ -1,0 +1,31 @@
+# Theme text and labels
+
+
+# English (default)
+# -----------------
+pt: &DEFAULT_PT
+  skip_links: "Pular links"
+  skip_primary_nav: "Pular para navegação primária"
+  skip_content: "Pular para conteúdo"
+  skip_footer: "Pular para rodapé"
+  menu_label: "Menu"
+  by: "por"
+  min_read: "min de leitura"
+  read_more: "Ler mais..."
+  categories: "Categorias"
+  tags: "Tags"
+  pages_categorized: "Páginas listadas sob"
+  pages_tagged: "Páginas tageadas"
+  table_of_contents: "Tabela de Conteúdos"
+  results_found: "Resultado(s) encontrados"
+  share: "Compartilhar"
+  tweet: "Xitar"
+  next: "Próximo"
+  previous: "Prévio"
+  newer: "Novos"
+  older: "Antigos"
+  back_to_top: "Topo"
+  search_placeholder_text: "Entre seus termos de busca..."
+  powered_by: "Construído com"
+pt-BR:
+  <<: *DEFAULT_PT

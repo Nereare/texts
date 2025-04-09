@@ -2,8 +2,10 @@ title: Textos Aleatórios
 description: Nada de mais...
 locale: pt-BR
 logo: assets/logo.png
+url: https://nereare.github.io/texts/
 author:
   name: Igor Padoim
+  picture: /assets/igor.jpg
 copyright: "Todos os direitos reservados!"
 
 google_fonts:
@@ -15,17 +17,45 @@ google_fonts:
 read_time: true
 words_per_minute: 200
 
-# Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+search_full_content: true
+
+category_archive_path: "/categorias/#"
+tag_archive_path: "/tags/#"
+
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-spaceship
+
+collections:
+  - dnd
+  - characters
+
+jekyll-spaceship:
+  processors:
+    - table-processor
+    - mermaid-processor
+    - emoji-processor
+  mermaid-processor:
+    mode: default
+    syntax:
+      code: 'mermaid'
 
 exclude:
-  - .sass-cache/
+  - .git/
+  - .github/
   - .jekyll-cache/
+  - .ruby-lsp/
+  - .sass-cache/
   - Gemfile
   - Gemfile.lock
   - node_modules/
   - vendor/
   - .gitignore
   - .gitattributes
+  - README.md
+  - LICENSE.md
+  - OGL.md
+  - CONTRIBUTING.md
