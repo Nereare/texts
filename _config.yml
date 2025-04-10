@@ -30,8 +30,8 @@ plugins:
   - jekyll-spaceship
 
 collections:
-  - dnd
-  - characters
+  characters:
+    output: true
 
 jekyll-spaceship:
   processors:
