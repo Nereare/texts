@@ -75,25 +75,25 @@ layout: page
           <h4>Skills</h4>
           <p>{{ page.skills | join: ', ' }}</p>
         </div>
-        {% if page.dmg_vulnerabilities %}
+        {% if page.dmg_vulnerabilities != empty %}
         <div class="property-line">
           <h4>Damage Vulnerabilities</h4>
           <p>{{ page.dmg_vulnerabilities | join: ', ' }}</p>
         </div>
         {% endif %}
-        {% if page.dmg_immunities %}
+        {% if page.dmg_immunities != empty %}
         <div class="property-line">
           <h4>Damage Immunities</h4>
           <p>{{ page.dmg_immunities | join: ', ' }}</p>
         </div>
         {% endif %}
-        {% if page.dmg_resistances %}
+        {% if page.dmg_resistances != empty %}
         <div class="property-line">
           <h4>Damage Resistances</h4>
           <p>{{ page.dmg_resistances | join: ', ' }}</p>
         </div>
         {% endif %}
-        {% if page.condition_immunities %}
+        {% if page.condition_immunities != empty %}
         <div class="property-line">
           <h4>Condition Immunities</h4>
           <p>{{ page.condition_immunities | join: ', ' }}</p>
