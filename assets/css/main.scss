@@ -4,14 +4,13 @@ sitemap: false
 
 @charset "utf-8";
 
-$body: "Crimsom Text", serif;
-$title: "Quicksand", sans-serif;
+$font: "Libre Baskerville", serif;
 
-$base-font-family: $body;
-$headline-font-family: $title;
-$title-font-family: $title;
-$description-font-family: $body;
-$meta-font-family: $title;
+$base-font-family: $font;
+$headline-font-family: $font;
+$title-font-family: $font;
+$description-font-family: $font;
+$meta-font-family: $font;
 
 $accent-color: #00296b;
 
@@ -19,8 +18,22 @@ $accent-color: #00296b;
 
 main { text-align: justify; }
 
-.site-title { font-family: $title; }
+.site-title { font-family: $font; }
 .site-description { display: none; }
+.page-title, .entry-title { font-style: normal; }
+.page-content {
+  text-align: justify;
+  img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img.inline {
+    display: inline;
+    margin-right: 0.5em;
+    height: 1em;
+  }
+}
 
 /************************/
 /* D&D Stat Block Style */

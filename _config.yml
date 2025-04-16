@@ -9,10 +9,6 @@ author:
 copyright: "Todos os direitos reservados!"
 
 google_fonts:
-  - name: "Crimsom Text"
-    weights: "400,400i,700,700i"
-  - name: "Quicksand"
-    weights: "400,400i,700,700i"
   - name: "Libre Baskerville"
     weights: "400,400i,700,700i"
   - name: "Noto Sans"
