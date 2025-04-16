@@ -1,12 +1,13 @@
 source 'https://rubygems.org'
-ruby '~> 3.2'
+ruby file: '.ruby-version'
 
-gem 'jekyll'
+gem 'jekyll', '~> 4.4'
 gem 'jekyll-theme-so-simple', '~> 3.2'
 
+gem 'sass-embedded', '1.78.0'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
 gem 'kramdown-parser-gfm', '~> 1.1'
-gem 'fiddle'
+#gem 'fiddle', '~> 1.1'
 
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.12'

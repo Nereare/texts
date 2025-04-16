@@ -1,3 +1,4 @@
+# Site configurations
 title: Textos Aleatórios
 description: Nada de mais...
 locale: pt-BR
@@ -8,6 +9,9 @@ author:
   picture: /assets/igor.jpg
 copyright: "Todos os direitos reservados!"
 
+theme: jekyll-theme-so-simple
+# So Simple theme configurations
+# - Custom fonts imports
 google_fonts:
   - name: "Libre Baskerville"
     weights: "400,400i,700,700i"
@@ -15,26 +19,31 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Montserrat"
     weights: "400,400i,700,700i"
-
+# - Read time
 read_time: true
 words_per_minute: 200
-
+# - Allow full-content search
 search_full_content: true
-
+# - Category and tag paths
 category_archive_path: "/categorias/#"
 tag_archive_path: "/tags/#"
 
-theme: jekyll-theme-so-simple
+# Sass deprecation silencing
+sass:
+  quiet_deps: true
+
+# Collections
+collections:
+  characters:
+    output: true
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-spaceship
-
-collections:
-  characters:
-    output: true
-
+# Jekyll-spaceship configurations
 jekyll-spaceship:
   processors:
     - table-processor
@@ -45,6 +54,7 @@ jekyll-spaceship:
     syntax:
       code: 'mermaid'
 
+# Exclusions
 exclude:
   - .git/
   - .github/
