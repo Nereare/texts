@@ -32,6 +32,11 @@ $accent-color: #00296b;
     height: 1em;
   }
 }
+.site-footer { border: none; }
+audio {
+  display: block;
+  margin: 0.5em auto;
+}
 
 /************************/
 /* D&D Stat Block Style */
