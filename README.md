@@ -1,4 +1,4 @@
-# Textos Aleatórios
+# Textos para Shiori
 
 Ignore este repositório... Ele com certeza não é pros seus olhos...
 
@@ -10,7 +10,7 @@ Para mais informações sobre como contribuir com este projeto, veja [o arquivo 
 
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
-[Textos Aleatórios](https://nereare.github.io/texts/) por [Igor Padoim](https://nereare.com/) é licenciado sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br).
+[Textos para Shiori](https://nereare.github.io/texts/) por [Igor Padoim](https://nereare.com/) é licenciado sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br).
 
 ### OGL
 

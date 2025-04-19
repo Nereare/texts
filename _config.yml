@@ -1,8 +1,8 @@
 # Site configurations
-title: Textos Aleatórios
+title: Textos para Shiori
 description: Nada de mais...
 locale: pt-BR
-logo: assets/logo.png
+logo: assets/logo.jpg
 url: https://nereare.github.io/texts/
 author:
   name: Igor Padoim
