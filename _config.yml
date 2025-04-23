@@ -36,6 +36,8 @@ sass:
 collections:
   characters:
     output: true
+  monsters:
+    output: false
 
 # Plugins
 plugins:
