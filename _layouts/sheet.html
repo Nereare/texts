@@ -2,183 +2,33 @@
 layout: page
 ---
 
-<!-- 5e Stat Block -->
-<div class="stat-block-container">
-  <div class="stat-block">
-    <hr class="orange-border">
-    <div class="section-left">
-      <div class="creature-heading">
-        <h1>{{ page.title }}</h1>
-        <h2>
-          {{ page.size }}
-          {{ page.type }},
-          {{ page.align }}
-        </h2>
-      </div>
-      <svg height="5" width="100%" class="tapered-rule">
-        <polyline points="0,0 400,2.5 0,5"></polyline>
-      </svg>
-      <div class="top-stats">
-        <div class="property-line">
-          <h4>Armor Class</h4>
-          <p>{{ page.ac }}</p>
-        </div>
-        <div class="property-line">
-          <h4>Hit Points</h4>
-          <p>{{ page.hp }} ({{ page.hd }})</p>
-        </div>
-        <div class="property-line">
-          <h4>Speed</h4>
-          <p>{{ page.speed }} ft.</p>
-        </div>
-      </div>
-      <svg height="5" width="100%" class="tapered-rule">
-        <polyline points="0,0 400,2.5 0,5"></polyline>
-      </svg>
-      <div>
-        <div class="abilities">
-          <div class="ability-strength">
-            <h4>STR</h4>
-            <p>{{ page.str | ability }}</p>
-          </div>
-          <div class="ability-dexterity">
-            <h4>DEX</h4>
-            <p>{{ page.dex | ability }}</p>
-          </div>
-          <div class="ability-constitution">
-            <h4>CON</h4>
-            <p>{{ page.con | ability }}</p>
-          </div>
-          <div class="ability-intelligence">
-            <h4>INT</h4>
-            <p>{{ page.int | ability }}</p>
-          </div>
-          <div class="ability-wisdom">
-            <h4>WIS</h4>
-            <p>{{ page.wis | ability }}</p>
-          </div>
-          <div class="ability-charisma">
-            <h4>CHA</h4>
-            <p>{{ page.cha | ability }}</p>
-          </div>
-        </div>
-      </div>
-      <svg height="5" width="100%" class="tapered-rule">
-        <polyline points="0,0 400,2.5 0,5"></polyline>
-      </svg>
-      <div>
-        <div class="property-line">
-          <h4>Saving Throws</h4>
-          <p>{{ page.saves | join: ', ' }}</p>
-        </div>
-        <div class="property-line">
-          <h4>Skills</h4>
-          <p>{{ page.skills | join: ', ' }}</p>
-        </div>
-        {% if page.dmg_vulnerabilities != empty %}
-        <div class="property-line">
-          <h4>Damage Vulnerabilities</h4>
-          <p>{{ page.dmg_vulnerabilities | join: ', ' }}</p>
-        </div>
-        {% endif %}
-        {% if page.dmg_immunities != empty %}
-        <div class="property-line">
-          <h4>Damage Immunities</h4>
-          <p>{{ page.dmg_immunities | join: ', ' }}</p>
-        </div>
-        {% endif %}
-        {% if page.dmg_resistances != empty %}
-        <div class="property-line">
-          <h4>Damage Resistances</h4>
-          <p>{{ page.dmg_resistances | join: ', ' }}</p>
-        </div>
-        {% endif %}
-        {% if page.condition_immunities != empty %}
-        <div class="property-line">
-          <h4>Condition Immunities</h4>
-          <p>{{ page.condition_immunities | join: ', ' }}</p>
-        </div>
-        {% endif %}
-        <div class="property-line">
-          <h4>Level</h4>
-          <p>{{ page.level }}</p>
-        </div>
-        <div class="property-line">
-          <h4>Senses</h4>
-          <p>{{ page.senses | join: ', ' }}</p>
-        </div>
-        <div class="property-line">
-          <h4>Languages</h4>
-          <p>{{ page.languages | join: ', ' }}</p>
-        </div>
-        <div class="property-line">
-          <h4>Prof. Bonus</h4>
-          <p>{{ page.pb }}</p>
-        </div>
-      </div>
-      <svg height="5" width="100%" class="tapered-rule">
-        <polyline points="0,0 400,2.5 0,5"></polyline>
-      </svg>
-      <div>
-        {% if page.spellcasting %}
-        <div class="property-line">
-          <h4>Spellcasting</h4>
-          <p>{{ page.spellcasting.intro }}</p>
-          <ul>
-            {% for line in page.spellcasting.lines %}
-            <li>{{ line }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-        {% if page.traits %}
-        {% for trait in page.traits %}
-        <div class="property-line">
-          <h4>{{ trait.title }}</h4>
-          <p>{{ trait.desc }}</p>
-        </div>
-        {% endfor %}
-        {% endif %}
+<!-- 5e Character Sheet -->
+<div id="character-sheet">
+  <!-- ID Header -->
+  <div class="header">
+    <div>
+      <p>{{ page.title }}</p>
+    </div>
+    <div>
+      <div class="container">
+        {% assign classes = page.classes | join: ', ' %}
+        <p>{{ classes }}</p>
+        <p>Classe &amp; Nível</p>
+
+        <p>{{ page.species }}</p>
+        <p>{{ page.align }}</p>
+        <p>Espécie</p>
+        <p>Alinhamento</p>
       </div>
     </div>
-    <div class="section-right">
-      {% if page.actions %}
-      <div class="actions">
-        <h3>Actions</h3>
-        {% for action in page.actions %}
-        <div class="property-block">
-          <h4>{{ action.title }}</h4>
-          <p>{{ action.desc }}</p>
-        </div>
-        {% endfor %}
-      </div>
-      {% endif %}
-      {% if page.bonus_actions %}
-      <div class="actions">
-        <h3>Bonus Actions</h3>
-        {% for bonus_action in page.bonus_actions %}
-        <div class="property-block">
-          <h4>{{ bonus_action.title }}</h4>
-          <p>{{ bonus_action.desc }}</p>
-        </div>
-        {% endfor %}
-      </div>
-      {% endif %}
-      {% if page.reactions %}
-      <div class="actions">
-        <h3>Reactions</h3>
-        {% for reaction in page.reactions %}
-        <div class="property-block">
-          <h4>{{ reaction.title }}</h4>
-          <p>{{ reaction.desc }}</p>
-        </div>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
-    <hr class="orange-border bottom">
+  </div>
+  <!-- /ID Header -->
+  <div class="body">
+    <div class="column"></div>
+    <div class="column"></div>
+    <div class="column"></div>
   </div>
 </div>
-<!-- /5e Stat Block -->
+<!-- /5e Character Sheet -->
 
 {{ content }}

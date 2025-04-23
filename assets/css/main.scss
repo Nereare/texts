@@ -49,6 +49,98 @@ hr {
                                   rgba(0, 0, 0, 0));
 }
 
+/**************************/
+/* D&D 5e Character Sheet */
+/**************************/
+$dnd_gray: #e0e0e0;
+@mixin bg($img) {
+  background-color: transparent;
+  background-image: url($img);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-overflow: visible;
+}
+#character-sheet {
+  display: block;
+  margin: 1em auto;
+  width: 612px;
+  font-family: "Noto Sans", "Helvetica", sans-serif;
+
+  .header {
+    width: 612px;
+    height: 98px;
+    @include bg("{{ '/assets/sheet/header-background.svg' | absolute_url }}");
+    p {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    div {
+      float: left;
+      &:first-child { // Left header
+        width: 250px;
+        height: 98px;
+        @include bg("{{ '/assets/sheet/header-left.svg' | absolute_url }}");
+        p {
+          position: relative;
+          top: 37px;
+        }
+      }
+      &:last-child { // Right header
+        width: 362px;
+        height: 98px;
+        @include bg("{{ '/assets/sheet/header-right.svg' | absolute_url }}");
+        div.container {
+          background: none;
+          width: 304px;
+          height: 50px;
+          position: relative;
+          top: 24px;
+          left: 7px;
+          p {
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            top: 0;
+            left: 0;
+            float: left;
+            &:nth-child(1) {
+              font-size: 0.6em;
+              width: 304px;
+              height: 17px;
+              border-bottom: solid 1px $dnd_gray;
+            }
+            &:nth-child(2) {
+              font-size: 0.3em;
+              width: 304px;
+              height: 8px;
+            }
+            &:nth-child(3), &:nth-child(4) {
+              font-size: 0.6em;
+              width: 152px;
+              height: 17px;
+              border-bottom: solid 1px $dnd_gray;
+            }
+            &:nth-child(5), &:nth-child(6) {
+              font-size: 0.3em;
+              width: 152px;
+              height: 8px;
+            }
+          }
+        }
+      }
+    }
+  }
+  .body {
+    width: 612px;
+    .column {
+      width: 204px;
+      float: left;
+    }
+  }
+}
+
 /***************************/
 /* D&D 5e Stat Block Style */
 /***************************/
