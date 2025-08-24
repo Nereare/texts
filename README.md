@@ -1,5 +1,9 @@
 # Textos para Shiori
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Nereare/texts/jekyll.yml)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Nereare/texts)
+![GitHub last commit](https://img.shields.io/github/last-commit/Nereare/texts)
+
 Ignore este repositório... Ele com certeza não é pros seus olhos...
 
 ## Contribuições
@@ -14,7 +18,7 @@ Para mais informações sobre como contribuir com este projeto, veja [o arquivo 
 
 ### OGL
 
-Este projeto usará, inexoravelmente, partes do [_System Reference Document_ 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf), o qual é regido pela _Open Game License 1.0a_, [cópia da qual](OGL.md) é incluída neste repositório.
+Este projeto usará, inexoravelmente, partes do [*System Reference Document* 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf), o qual é regido pela _Open Game License 1.0a_, [cópia da qual](OGL.md) é incluída neste repositório.
 
 ### Atribuições
 
