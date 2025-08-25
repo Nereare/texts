@@ -135,8 +135,12 @@ $dnd_gray: #e0e0e0;
   .body {
     width: 612px;
     .column {
-      width: 204px;
-      float: left;
+      height: 453px;
+      &:nth-child(1) {
+        @include bg("{{ '/assets/sheet/body-abilities.svg' | absolute_url }}");
+        width: 61px;
+        float: left;
+      }
     }
   }
 }

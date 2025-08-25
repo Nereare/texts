@@ -1,9 +1,9 @@
 module Jekyll
   module AbilityModFilter
-    def ability(input)
+    def modifier(input)
       ability = input.to_i
       mod = (ability - 10) / 2
-      return ability.to_s + " (" + (mod < 0 ? mod.to_s : "+" + mod.to_s) + ")"
+      return (mod < 0 ? mod.to_s : "+" + mod.to_s)
     end
   end
 end
