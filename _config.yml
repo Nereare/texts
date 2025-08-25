@@ -28,9 +28,11 @@ search_full_content: true
 category_archive_path: "/categorias/#"
 tag_archive_path: "/tags/#"
 
-# Sass deprecation silencing
+# Sass configurations
 sass:
   quiet_deps: true
+  style: compressed
+  sourcemap: development
 
 # Collections
 collections:

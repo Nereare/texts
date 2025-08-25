@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Lorem ipsum dolor sit amet.
+Eis aqui uma *petit* coleção de textos aleatórios~
