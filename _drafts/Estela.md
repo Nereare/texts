@@ -41,4 +41,10 @@ No dia seguinte, quando esqueltos mortos de uma floresta anciã se tornaram vis�
 
 O elfo mítico os esperava em riste, imóvel como uma montanha e com um semblante igualmente ilegível quanto.
 
-"Alto lá, forasteiros!"
+"Alto lá, forasteiros!" A avalanche de sua voz sobrepujou todos os sons, mesmo os da tempestade.
+
+Subitamente, como quem passa por uma curtina de seda branca, a comitiva ultrapassara uma barreira invisível. Uma parede de nevasca, infinitamente alta, os separara do que, indubitavelmente, eram as margens do domínio élfico.
+
+"Stoppið þar!" A própria terra tremera. Todos - cavalos, humanos e carroagens - se viram imóveis e incapazes de avançar. "Apenas meus convidados podem seguir adiante - e nenhum de vocês foi convidado! Quais ventos os trazem?"
+
+Rei Astolfo II, sem pensar em sua segurança, lançou sua voz: "Oh, milorde elfo! Sou Astolfo II, monarca e servidor dos cordalienses. Venho em paz e trago presentes! Apenas vos suplico a gentileza de uma conversa! Seu poder é tamanho que sua fama nos alcançou ao sul! Em vós jaz nossa última esperança!" Lágrimas congelavam em sua face enquanto clamava - uma profundidade de emoção que moveu a todos também às lágrimas.
