@@ -21,4 +21,24 @@ Rainha Stefany? Esta ninguém sabia ao certo. Alguns diziam ser uma plebéia ór
 
 ___
 
-Rei Astolfo II, consternado com a ausência de filhos para alegrar os salões de seu castelo e os corações de seus súditos, buscou por todo o reino e além por auxílio. Seus pajens trouxeram, após anos de busca incessante, notícias de uma fada da água, residindo no extremo norte, nas Terras de Gelo para além do Mar de Setim.
+Rei Astolfo II, consternado com a ausência de filhos para alegrar os salões de seu castelo e os corações de seus súditos, buscou por todo o reino e além por auxílio. Seus pajens trouxeram, após anos de busca incessante, notícias de um elfo, residindo no extremo norte, nas Terras de Gelo para além do Mar de Setim.
+
+As lendas locais traziam esse elfo como a fonte de vida e bonança em uma região tão inóspita. Assim como cantavam sobre o lar deste ser, um vale eternamente primaveril no coração da neve.
+
+Rainha Stefany clamou e chorou por que Rei Astolfo II não enveredasse tamamho risco - tamanho seu amor por ele, que o mero risco de perdê-lo em tal empreitada a fazia preferir a esterelidade perpétua.
+
+Como seu amado persistia em tal busca, Rainha Stefany se lançou a seus pés e implorou que fossem juntos. "Para vivermos ou morrermos, mas que estejamos juntos!"
+
+Movido pela franqueza pura do amor de sua esposa por si, Rei Astolfo II titubeou e, neste momento de emoção tenra, aceitou a oferta de sua amada.
+
+___
+
+Longos foram os meses entre planejanento, zarpar e alcançar as orlas cobertas de gelo do Norte, mas a comitiva de Cordália enfim chegou ao Porto das Lanças. Pajens de Cordália e do Norte se encontraram e a passagem dos cordalienses até seu alvo final - e de volta - foi enfim abençoada pela Rainha Nadir.
+
+Mesmo que a Primavera estivesse em flor ao Sul, os morros baixos e nevados da planície sudeste foram aterrorizantemente congelados. Uma travessia solene, em que a comitiva seguia taciturna, atravessou as semanas até que, enfim, no horizonte despontaram as cordilheiras que eram o muro em torno do vale encantado.
+
+No dia seguinte, quando esqueltos mortos de uma floresta anciã se tornaram visíveis a despeito da nevasca, a comitiva fora tomada de espanto por uma figura solitária nas orlas da mata esquecida.
+
+O elfo mítico os esperava em riste, imóvel como uma montanha e com um semblante igualmente ilegível quanto.
+
+"Alto lá, forasteiros!"
