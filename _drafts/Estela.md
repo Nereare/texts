@@ -45,6 +45,30 @@ O elfo mítico os esperava em riste, imóvel como uma montanha e com um semblant
 
 Subitamente, como quem passa por uma curtina de seda branca, a comitiva ultrapassara uma barreira invisível. Uma parede de nevasca, infinitamente alta, os separara do que, indubitavelmente, eram as margens do domínio élfico.
 
-"Stoppið þar!" A própria terra tremera. Todos - cavalos, humanos e carroagens - se viram imóveis e incapazes de avançar. "Apenas meus convidados podem seguir adiante - e nenhum de vocês foi convidado! Quais ventos os trazem?"
+"*Stoppið þar!*" A própria terra tremera. Todos - cavalos, humanos e carroagens - se viram imóveis e incapazes de avançar. "Apenas meus convidados podem seguir adiante - e nenhum de vocês foi convidado! Quais ventos os trazem?"
 
 Rei Astolfo II, sem pensar em sua segurança, lançou sua voz: "Oh, milorde elfo! Sou Astolfo II, monarca e servidor dos cordalienses. Venho em paz e trago presentes! Apenas vos suplico a gentileza de uma conversa! Seu poder é tamanho que sua fama nos alcançou ao sul! Em vós jaz nossa última esperança!" Lágrimas congelavam em sua face enquanto clamava - uma profundidade de emoção que moveu a todos também às lágrimas.
+
+Todos menos o elfo.
+
+Impassível, ele seguia com seus olhos safira imutáveis, penetrando no cerne do Rei Astolfo II.
+
+Minuto a minuto, o frio se apossava da comitiva imóvel, enquanto o Rei se sentia mais e mais desnudo sob os olhos milenares do elfo.
+
+Enfim, o elfo proferiu "traga Stefany. Ela, e apenas ela, está convidada a meus salões."
+
+Com um movimento de sua mão, o elfo então libertou a comitiva de seus grilhões arcanos. Rainha Stefany, altiva como um pinheiro, seguiu adiante alguns poucos passos para então se virar e mirar seu marido com olhos ainda marejados de emoção. Sem palavras, seu olhar suplicava por perdão tanto quanto expressava a intensidade de seu amor por ele.
+
+A Rainha decidiu por partir, antes que seu amor pelo Rei a impedisse de seguir pelo favor do ser feérico.
+
+"*Hætta!*" Uma vez mais, todos foram presos pelos laços invisíveis do elfo. "Stefany, eu repito, e *apenas* Stefany é minha convidada." O olhar de desdém do ser contra as damas de companhia da Rainha o teria levado à forca em Cordália. "Meu salões serão acolhedores, nenhum mal recairá sobre si que não seja invocado, e você será tratada como uma de nós, Stefany. Não tema, eu não sou seu inimigo."
+
+O mesmo movimento de mão, liberdade.
+
+"E, ademais, você será devolvida em segurança em sua nau dentro de três luas, isso eu asseguro."
+
+Rainha Stefany marchou adiante, inquebrantável como uma rocha, mas tão solitária quanto um oásis no deserto. Tão logo o elfo a recebeu em gentileza cabível ao posto e status dela, este se voltou para a comitiva.
+
+"Vão, retornem à segurança das muralhas de Nadir, ela os receberá e alimentará. Minha palavra persiste: Stefany voltará em segurança a vocês ao terceiro raiar do sol." Seus olhos impossivelmente azuis se voltaram para o céu atrás da coorte. "*Komdu, örugg leið!*" E um canal de ventos calmos e céu azul se abriu em linha reta, de onde estavam até as distantes muralhas da cidade portuária - muralhas estas a poucas horas de marcha, não semanas.
+
+Em deslumbre e medo, a comitiva se rendeu às ordens daquele ser.
