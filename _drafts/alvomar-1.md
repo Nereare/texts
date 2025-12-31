@@ -1,0 +1,82 @@
+---
+title: Capítulo I
+layout: post
+tags: fairytale fantasy porn
+category: Alvomar
+---
+
+O mar estava calmo pelos últimos três dias desde que a tempestade cessara, céu azul e ventos brandos guiando a vela triangular da embarcação em que Amadeu conseguira uma reles rede. Uma viagem que passasse despercebida era o plano, e sua infância fora passada com menos luxos até mesmo do que esta chalupa.
+
+Seus cinco companheiros de viagem eram quase tão introspectivos quanto si mesmo, o que era um bônus inesperado, dado a tendência das pessoas comuns de tagarelarem incessantemente. A tripulação&mdash;capitão, segunda-em-comando, e dois marujos&mdash;, por outro lado... Pelo menos, eles acataram o clima de ensimesmamento e mantinham entre eles as conversas incessantes.
+
+Desde ontem, sua manta deixara de ser o suficiente e passara a ter que usar suas novas roupas de frio. Seis anos desde a última vez em que estivera nestes mares... Desde que usara roupas de inverno... Claro que as roupas de então foram há muito reaproveitadas para outros fins e estas eram relativamente novas... Novas para ele, pelo menos...
+
+Próximo do meio-dia, o primeio iceberg surgiu, estoico como se o mar ao seu redor fosse um jardim de repouso. Muitos mais surgiram desde então, quão mais ao norte se dirigiam.
+
+Mais dois dias marcados por algumas placas de gelo que atrasaram o avanço e, na metade da tarde, o Porto das Lanças surgiu no horizonte marcado por neblina. Naquela mesma noite, finalmente aportaram e Amadeu pôde, enfim, se desvencilhar de seus antigos companheiros.
+
+Sua missão era clara, a Mão Oculta, já bem estabelecida na península de Cordália, desejava expandir seus horizontes ao norte. Poucos dentre seus membros sequer conheciam a geografia ao norte do Mar Branco, muitos menos ainda conheciam as estruturas de poder vigentes e, provavelmente, apenas ele próprio tinha algum contato nestas.
+
+Um contato antigo, e que ele sequer sabia se ainda estaria vivo... Mas um contato...
+
+A escolha de quem enviar fora óbvia.
+
+Enquanto a cidade portuária de **A1**, a única com algum grau de cosmopolitanismo, seria o alvo ideal, esta era controlada pelo punho de ferro da Rainha Nadir, de quem nada parecia escapar. Sua rede de espiões e contrainteligência tornava **A1** um diamante raro&mdash;mas inalcançável pelo momento.
+
+O povoado de **A2** seria a próxima escolha lógica, mas uma catástrofe dois anos atrás destruira a maior parte dos prédios e estruturas, e aniquilara completamente a hierarquia dominante prévia. Nadir não intervira ainda, ciente de que quem se erguesse vitorioso não teria alternativa senão lhe jurar vassalagem&mdash;ou ser aniquilado completamente pelo exército desta. Sem qualquer estrutura de poder e com o caos ubíquo, **A2** não seria capaz de ser controlada agora...
+
+Restavam as tribos, seminomades, mas com uma estrutura de poder milenar e estável, arcabouçada em tradição matrilineal e adoração aos Æsir que os protegiam contra Jötunheim... Uma das quais sendo a tribo original de Amadeu...
+
+Eis então que agora ele teria que cruzar a Última Floresta para chegar aos desfiladeiros do norte e, então, ao que outrora chamara de casa.
+
+---
+
+O Iceberg era um pulgueiro ao nordeste de **A1** que se autoproclamava como estalagem. Os quartos eram baratos, o dormitório comum ainda mais&mdash;a escolha óbvia para um sovina como Amadeu. Uma cama num quarto comunal não o preocupava, um _Alarme_ lançado silenciosamente e sua noite de sono poderia ser tão profunda quanto quisesse.
+
+O caldo aguado vendido como sopa ao menos era quente, assim como o pão claramente misturado com cinzas, e a _pale ale_ era demaseado gelada e fraca. Por 5 cobres, Amadeu estava contente e considerando uma refeição voluptuosa.
+
+A noite decorreu, após dez minutos de sussurros e movimentos sutis que ninguém percebera, com apenas um pingue por um menino de uns dez anos tentando conseguir algumas moedas de sua bolsa. Nada que um acordar súbito e um olhar incisivo não abortassem prontamente.
+
+A manhã gélida tentou insipidamente raiar por uma neblina densa cuja radiância atrapalhava a orientação mais até que o obscurescimento. Anos experiência na infância ressurgiram como um reflexo em Amadeu, para quem a única dificuldade fora a desorganização das ruas de **A1**. Quando, enfim, se viu em um dos portões da muralha, se viu forçado a aguardar sua abertura tardia. O campo aberto além da parede de pedras era amplo e sem pontos para se ocultar, forçando Amadeu a seguir pela estrada oriental por vários quilometros, até que, enfim, se afastasse o suficiente para poder deixar a via e partir ao norte, em direção à Floresta.
+
+A Última Floresta, apesar de intimidadora&mdash;ou, talvez, por ser intimidadora&mdash;, era rica em animais para caça e tinha, até mesmo, vegetação rasteira com diversas frutas, além de fungos prolíficos, alguns dos quais comestíveis. Ele nunca soubera discernir entre fungos, então estes foram apenas um plano de fundo, ademais ele não precisara usar de suas rações de reserva, as quais guardava para as geleiras estéreis que levavam ao Cinturão.
+
+Seis anos&mdash;pouco mais de seis anos&mdash; desde a última vez que sentira a mudança súbita do secor frígido das geleiras se rendendo ao frio úmido e fértil do Cinturão... Passar uma vez mais pelo Véu... A sensação que não permitia a ninguém negar a existência de uma força maior por trás do paraíso branco que eles chamavam de casa.
+
+---
+
+"Vó?" Sua voz, ainda fina, soara de junto das saias de Adelaide. "Por que aqui é quente e as coisas crescem, mas lá fora não?"
+
+"Amadeu, meu querido..." Adelaide parou seu tear e se voltou para o neto. "Nossa terra é abençoada por Frigga, que nos protege da fúria branca dos jötnar. O Véu de Frigga é uma cortina tecida da seiva da própria Yggdrasil e ancorada as estrelas deste céu. Dentro do Véu, nós existimos sob a benção da Deusa-Mãe."
+
+"Por quê, vó?"
+
+"Vou precisar que você me explique melhor o que você quer saber..." A senhora disse em tom jocoso.
+
+"Por quê o Véu existe? Eh... Digo... Por que nós estamos aqui e Frigga precisou nos proteger com esse Véu?" Amadeu perguntou, após se concentrar fazendo bico com sua boca e despertando risadas silenciosas de sua avó.
+
+"Nós descendemos de jötnar, Amadeu." Adelaide disse simplesmente, despertando um olhar de terror em Amadeu. "Calma, querido... Não os jötnar que os deuses destroem! Jötnar que se aliaram a Odin quando os deuses baniram os gigantes para Jotunheim. Se voltando contra os gigantes que desejavam despejar uma era de gelo sobre Midgard, Odin os redimiu de seus crimes prévios e os agraciou com a humanidade de que nós descendemos." Ela parou com um sorriso cândido. "Nossos antepassados _foram_ jötnar. Jötnar redimidos por Odin e agraciados com a humanidade de que nós hoje desfrutamos.
+
+"E eu já sei qual é a próxima pergunta, pequeno: 'por que aqui?', não é isso?"
+
+O Amadeu de sete anos apenas balançou a cabeça concordando, enquanto enrubescia discretamente.
+
+"Foi aqui a batalha em que os jötnar foram banidos." Disse Adelaide, como se isso não mudasse completamente a visão que Amadeu tinha sobre sua terra-natal. "Por que nos mover se eles podem, tão facilmente quanto, nos protegerem do frio assassino?
+
+"E essa é a história de como o Véu nos foi presenteado!" E ela sorriu com um sorriso que se estendia para olhos, testa e orelhas, o tipo de sorriso que derreteria geleiras.
+
+---
+
+"Eu queria saber como o Véu realmente passou a existir..." Amadeu começou a pensar antes de dormir, uma noite particularmente clara em que fizera sua fogueira numa clareira ampla em que as flores do último verão ainda estavam florescendo, mesmo nesse começo de outono. "Nenhuma das bibliotecas de Cordália mencionou nada nem parecido com esse tipo de magia. Claro que deve ter sido uma das Grandes Magias da Era Mítica... Mas nada? Nem um indício de uma suspeita? Por quê?"
+
+Os por quês sempre foram sua perdição. "Um filho do Deus Pai, claramente!" Dizia sua avó. "Cuidado pra não perder um de seus olhos também, meu filho!" Ela costumava brincar.
+
+Tinha seus dois olhos até agora... Mas um deles em troca de qual magia fora usada pra tecer o Véu? Talvez até qual o mecanismo da magia? Não parecia um preço alto...
+
+Estava tão além de qualquer assentamento humano que as estrelas agora brilhavam às dezenas de milhares no céu noturno. Antes de dormir acenderia uma fogueira, é claro, que ofuscaria quase todas... Mas, por enquanto, o escuro completo era um amigo querido que evidenciava a miríade de pontos luminosos.
+
+"Será que, de fato, o Véu está ancorado nelas?" O pensamento de Amadeu se impeliu neste caminho. "Em quais seriam? Os textos de Valerius sugeriam que estrelas talvez fossem sóis distantes... Milhões de quilometros distantes, talvez mais... O Véu se estenderia até lá? Por toda a imensidão do vazio entre as esferas?"
+
+Um movimento rápido de mão e três ou quatro palavras, uma esfera acendeu a lenha que ele já organizara previamente. O calor das chamas prontamente se extendeu sobre Amadeu.
+
+"Como Valerius chegou nessa conclusão? Ele era o maior
