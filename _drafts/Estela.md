@@ -71,4 +71,12 @@ Rainha Stefany marchou adiante, inquebrantável como uma rocha, mas tão solitá
 
 "Vão, retornem à segurança das muralhas de Nadir, ela os receberá e alimentará. Minha palavra persiste: Stefany voltará em segurança a vocês ao terceiro raiar do sol." Seus olhos impossivelmente azuis se voltaram para o céu atrás da coorte. "*Komdu, örugg leið!*" E um canal de ventos calmos e céu azul se abriu em linha reta, de onde estavam até as distantes muralhas da cidade portuária - muralhas estas a poucas horas de marcha, não semanas.
 
-Em deslumbre e medo, a comitiva se rendeu às ordens daquele ser.
+Num misto de deslumbre e medo, a comitiva se rendeu às ordens daquele ser. Em poucas horas estavam já junto às muralhas da cidade, onde Rainha Nadir os esperava junto de sua corte, com seu semblante fechado. "A ala sul está aberta para vocês."
+
+___
+
+Três longos dias se seguiram, com toda a comitiva cordaliense em tensão.
+
+À terceira noite, Rainha Nadir os procurou quando da ceia "esta é a última noite de minha generosidade, cordalienses. Antes do raiar do sol, espero que vocês já estejam em sua nau. Estas foram as ordens de Rhys, aconselho que as sigam."
+
+Tão logo estavam chegando ao cais da cidade, encontraram Rainha Stefany observando o raiar do sol no horizonte.
