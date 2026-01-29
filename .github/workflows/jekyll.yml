@@ -3,6 +3,7 @@ name: Deploy to Pages
 on:
   push:
     branches: ["master"]
+    paths-ignore: ["_drafts/**"]
   workflow_dispatch:
 
 permissions:
