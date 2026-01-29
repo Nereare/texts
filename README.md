@@ -18,8 +18,8 @@ Para mais informações sobre como contribuir com este projeto, veja [o arquivo 
 
 ### OGL
 
-Este projeto usará, inexoravelmente, partes do [*System Reference Document* 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf), o qual é regido pela _Open Game License 1.0a_, [cópia da qual](OGL.md) é incluída neste repositório.
+Este projeto usará, inexoravelmente, partes do [*System Reference Document* 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf), o qual é regido pela *Open Game License 1.0a*, [cópia da qual](OGL.md) é incluída neste repositório.
 
 ### Atribuições
 
-- Banco de dados da _SRD_ de _D&D 5e_ adaptado de [5e-database](https://github.com/5e-bits/5e-database).
+- Banco de dados da *SRD* de *D&D 5e* adaptado de [5e-database](https://github.com/5e-bits/5e-database).
