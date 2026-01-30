@@ -1,32 +1,17 @@
 # Site configurations
 title: Textos para Shiori
-description: Nada de mais...
-locale: pt-BR
-logo: assets/logo.jpg
+description: Eis aqui uma petit coleção de textos aleatórios~
 url: https://nereare.github.io/texts/
+logo: /assets/logo.jpg
+locale: pt_BR
 author:
   name: Igor Padoim
+  email: igorpadoim@gmail.com
   picture: /assets/igor.jpg
-copyright: "&copy; Creative Commons BY-NC-SA 4.0 International"
-
-theme: jekyll-theme-so-simple
-# So Simple theme configurations
-# - Custom fonts imports
-google_fonts:
-  - name: "Libre Baskerville"
-    weights: "400,400i,700,700i"
-  - name: "Noto Sans"
-    weights: "400,400i,700,700i"
-  - name: "Montserrat"
-    weights: "400,400i,700,700i"
-# - Read time
-read_time: true
-words_per_minute: 200
-# - Allow full-content search
-search_full_content: true
-# - Category and tag paths
-category_archive_path: "/categorias/#"
-tag_archive_path: "/tags/#"
+  url: https://padoim.com.br/
+license:
+  name: Creative Commons BY-NC-SA 4.0 International
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br
 
 # Sass configurations
 sass:
@@ -39,7 +24,7 @@ collections:
   characters:
     output: true
   monsters:
-    output: false
+    output: true
 
 # Plugins
 plugins:
@@ -47,6 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-spaceship
+  - liquid_reading_time
 # Jekyll-spaceship configurations
 jekyll-spaceship:
   processors:
@@ -57,6 +43,13 @@ jekyll-spaceship:
     mode: default
     syntax:
       code: 'mermaid'
+# Jekyll-feed configurations
+feed:
+  tags: true
+  posts_limit: 25
+  collections:
+    - characters
+    - monsters
 
 # Exclusions
 exclude:

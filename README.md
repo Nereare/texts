@@ -23,3 +23,4 @@ Este projeto usará, inexoravelmente, partes do [*System Reference Document* 5.1
 ### Atribuições
 
 - Banco de dados da *SRD* de *D&D 5e* adaptado de [5e-database](https://github.com/5e-bits/5e-database).
+- Tema baseado na versão 2.5.2 de [Minima](https://github.com/jekyll/minima/releases/tag/v2.5.2).

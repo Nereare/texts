@@ -2,9 +2,9 @@ source 'https://rubygems.org'
 ruby file: '.ruby-version'
 
 gem 'jekyll', '~> 4.4'
-gem 'jekyll-theme-so-simple', '~> 3.2'
 
-gem 'sass-embedded', '1.78.0'
+gem 'logger', '~> 1.7'
+gem 'sass-embedded', '~> 1.97', '>= 1.97.3'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
 gem 'kramdown-parser-gfm', '~> 1.1'
 #gem 'fiddle', '~> 1.1'
@@ -14,6 +14,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag', '~> 2.8'
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-spaceship', '~> 0.10.2'
+  gem 'liquid_reading_time', '~> 1.1'
 end
 
 platforms :windows, :jruby do

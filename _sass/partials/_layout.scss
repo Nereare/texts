@@ -1,0 +1,108 @@
+@use "vars";
+
+/**
+ * Site header
+ */
+header {
+  border-top: 5px solid vars.$brand-color;
+  min-height: vars.$spacing-unit * 1.865;
+
+  box-shadow: rgba(vars.$brand-color, 0.19) 0px 10px 20px,
+              rgba(vars.$brand-color, 0.23) 0px 6px 6px;
+  margin-bottom: 1rem;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+
+  img {
+    width: 128px;
+    border-radius: 50%;
+    margin: 0.5rem auto 0 auto;
+  }
+
+  h1 {
+    float: left;
+    font-size: vars.$base-font-size * 2;
+  }
+  nav { float: right; }
+  h1, nav {
+    display: block;
+    line-height: vars.$base-line-height * vars.$base-font-size * 3;
+    a {
+      color: vars.$text-color;
+      line-height: vars.$base-line-height;
+
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+    }
+
+    @include vars.media-query(vars.$on-palm) {
+      position: absolute;
+      top: 9px;
+      right: vars.$spacing-unit * 0.5;
+      background-color: vars.$background-color;
+      border: 1px solid vars.$grey-color-light;
+      border-radius: 5px;
+      text-align: right;
+
+      a {
+        display: block;
+        margin-left: 20px;
+        padding: 5px 10px;
+
+        &:not(:last-child) {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Site footer
+ */
+footer {
+  border-top: 1px solid vars.$grey-color-light;
+
+  h1 {
+    float: left;
+    @include vars.relative-font-size(1.125);
+  }
+  ul {
+    float: right;
+    @include vars.relative-font-size(0.9375);
+    color: vars.$grey-color;
+    text-align: right;
+    @extend %clearfix !optional;
+
+    li { list-style: none; }
+  }
+}
+
+/**
+ * Page & Post content
+ */
+article {
+  padding: 0;
+  flex: 1;
+
+  h2 {
+    @include vars.relative-font-size(2);
+  }
+  h3 {
+    @include vars.relative-font-size(1.75);
+  }
+  li {
+    margin-left: 0;
+    list-style: none;
+    margin-bottom: vars.$spacing-unit;
+  }
+  div {
+    width: 100%;
+    &:first-child {
+      margin-bottom: 1rem;
+    }
+  }
+}

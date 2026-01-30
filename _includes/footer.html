@@ -1,0 +1,17 @@
+<footer>
+  <div>
+    <h1>{{ site.title | escape }}</h1>
+
+    <ul>
+      <li>
+        Por <a href="{{ site.author.url | escape }}">{{ site.author.name | escape }}</a>
+      </li>
+      <li>
+        <a href="mailto:{{ site.author.email }}">Contato</a>
+      </li>
+      <li>
+        Licença <a href="{{ site.license.url }}">{{ site.license.name | escape }}</a>
+      </li>
+    </ul>
+  </div>
+</footer>
