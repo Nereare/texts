@@ -179,7 +179,7 @@ pre {
 /**
  * Wrapper
  */
-main, header div, header figure, footer div {
+article, header div, header figure, footer div {
   overflow: auto;
   max-width: -webkit-calc(#{vars.$content-width} - (#{vars.$spacing-unit} * 2));
   max-width:         calc(#{vars.$content-width} - (#{vars.$spacing-unit} * 2));

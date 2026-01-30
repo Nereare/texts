@@ -5,6 +5,20 @@ layout: default
 <article>
   <div>
     <h2>{{ page.title | markdownify | strip_html }}</h2>
+    <ul class="post-meta">
+      <li>Por <strong>{{ page.author | default: site.author.name | default: 'Autor Desconhecido' }}</strong></li>
+      {%- assign date_format = site.date_format | default: "%d/%m/%Y" -%}
+      <li>{{ page.date | date: date_format }}</li>
+      {%- if page.category -%}
+      <li><strong>Livro:</strong> {{ page.category }}</li>
+      {%- endif -%}
+      {%- if page.tags -%}
+      <li><strong>Tags:</strong> {{ page.tags | join: ', ' }}</li>
+      {%- endif -%}
+      {%- if page.world -%}
+      <li><strong>Mundo:</strong> {{ page.world }}</li>
+      {%- endif -%}
+    </ul>
   </div>
 
   <div>
