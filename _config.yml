@@ -12,6 +12,7 @@ author:
 license:
   name: Creative Commons BY-NC-SA 4.0 International
   url: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br
+show_excerpts: true
 
 # Sass configurations
 sass:
