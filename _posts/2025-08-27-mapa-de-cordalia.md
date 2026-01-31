@@ -2,7 +2,7 @@
 title: Mapa de Cordália
 layout: post
 tags: map
-category: Estela
+world: Alvomar
 ---
 
 ![Mapa de Cordália]({{ '/assets/images/2025-08-27-cordalia.jpg' | relative_uri }})
